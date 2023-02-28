@@ -1,0 +1,10 @@
+class Libro:
+    
+    blibliteca = []
+    
+    def __init__(self,titulo,autor,ano,genero):
+        self.titulo = titulo
+        self.autor = autor
+        self.ano = ano
+        self.genero = genero
+    lib
